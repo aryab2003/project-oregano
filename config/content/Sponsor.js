@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 export default {
   alpha: [
     {
@@ -66,6 +67,38 @@ export default {
       alt: 'POLYGON LOGO',
       // width: '20%',
     },
+    {
+      src: 'https://res.cloudinary.com/dkpdi1wek/image/upload/v1708786350/download__2_-removebg-preview_1_dscm20.png',
+      name: 'MathWorks',
+      link: 'https://in.mathworks.com/',
+      alt: 'MathWorks LOGO',
+      // width: '20%',
+    },
+
+    {
+      src: 'https://res.cloudinary.com/dkpdi1wek/image/upload/v1708786569/download__3_-removebg-preview_otfa7p.png',
+      name: 'mongoDB',
+      link: 'https://www.mongodb.com/',
+      alt: 'mongoDB LOGO',
+      // width: '20%',
+    },
+
+    {
+      src: 'https://res.cloudinary.com/dkpdi1wek/image/upload/v1708786739/download__5_-removebg-preview_zslel5.png',
+      name: 'GoDaddy Registry',
+      link: 'https://in.godaddy.com/',
+      alt: ' GoDaddy LOGO',
+      // width: '20%',
+    },
+
+    {
+      src: 'https://res.cloudinary.com/dkpdi1wek/image/upload/v1708787057/download_6_sop5ix.png',
+      name: 'auth0',
+      link: 'https://auth0.com/',
+      alt: 'Auth0 LOGO',
+      // width: '20%',
+    },
+
     // {
     //   src:
     //     'https://res.cloudinary.com/dzxgf75bh/image' +
@@ -84,6 +117,13 @@ export default {
     // },
   ],
   gamma: [
+    {
+      src: 'https://res.cloudinary.com/dkpdi1wek/image/upload/v1708784952/404_ww9ttr.png',
+      name: 'auth0',
+      link: 'https://auth0.com/',
+      alt: 'Auth0 LOGO',
+      // width: '20%',
+    },
     {
       src:
         'https://res.cloudinary.com/dzxgf75bh/image' +
@@ -127,10 +167,23 @@ export default {
   ],
   deltaFirst: [
     {
+      src: 'https://res.cloudinary.com/dkpdi1wek/image/upload/v1708785958/download_craeqs.png',
+      name: 'NordVPN',
+      link: 'https://nordvpn.com/',
+      alt: 'nordvpn LOGO',
+      // width: '20%',
+    },
+    {
       src: 'https://res.cloudinary.com/dhnkuonev/image/upload/v1702281493/fee3mushznsu7enbq7a1.png',
       name: 'Replit',
       link: 'https://replit.com',
       alt: 'Replit',
+    },
+    {
+      src: 'https://res.cloudinary.com/dkpdi1wek/image/upload/v1708786189/download__1_-removebg-preview_dyhfvg.png',
+      name: 'MindsDB',
+      link: 'https://mindsdb.com/',
+      alt: 'mindsdb',
     },
     //   {
     //     src:

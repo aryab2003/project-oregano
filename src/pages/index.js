@@ -62,6 +62,7 @@ const HomePage = ({ location }) => {
           <PreviousStats />
           <Prizes />
           {/* <TimelineSection /> */}
+
           <SponsorSection />
           <FAQ />
         </ContainerWrapper>
